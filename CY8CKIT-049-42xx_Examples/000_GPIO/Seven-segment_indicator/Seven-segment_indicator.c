@@ -22,6 +22,9 @@
  *  |        +5V |
  *  |        GND |
  *
+ *  7-сегментный светодиодный модуль
+ * https://aliexpress.ru/item/1005004029382373.html?spm=a2g2w.orderdetail.0.0.5a414aa67RYgEw&sku_id=12000033882401394&_ga=2.108339138.1798018584.1769334296-958842653.1759160311
+ *
  * Configure Pin: Name -> Pin_7Seg, Pins -> Number of pins: 7 , Type--> Digital output, Drive mode --> Strong drive, Initial drive state --> Low(0)
  *
  *\ authors        ScuratovaAnna, PivnevNikolay
